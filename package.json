@@ -1,7 +1,8 @@
 {
     "name": "ExpressApp",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A Node.js App using express",
+    "private": true,
     "dependencies": {
         "express": "*"
     },
